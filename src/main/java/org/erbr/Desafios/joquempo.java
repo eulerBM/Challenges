@@ -1,11 +1,13 @@
-package org.erbr.Jankenpon;
+package org.erbr.Desafios;
+
+import org.erbr.Desafios.Enums.BodyEnum;
 
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class body {
+public class joquempo {
     static Scanner input = new Scanner(System.in);
     static Random random = new Random();
 
