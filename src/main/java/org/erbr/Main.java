@@ -1,11 +1,11 @@
 package org.erbr;
 
-import org.erbr.Desafios.ContarVogaisEConsoantes;
+import org.erbr.Desafios.InverterString;
 
 public class Main {
     public static void main(String[] args) {
 
-        ContarVogaisEConsoantes.contar("computador");
+        InverterString.inverter("nova");
 
     }
 }
