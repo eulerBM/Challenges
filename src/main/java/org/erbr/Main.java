@@ -1,11 +1,11 @@
 package org.erbr;
 
-import org.erbr.Desafios.InverterString;
+import org.erbr.Desafios.RemoverEspaçosExtras;
 
 public class Main {
     public static void main(String[] args) {
 
-        InverterString.inverter("nova");
+        RemoverEspaçosExtras.remove(" Olá mundo ");
 
     }
 }
