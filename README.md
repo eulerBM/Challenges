@@ -40,5 +40,3 @@ O objetivo principal é **aprender praticando**: ler, entender e executar as sol
 MIT — sinta-se livre para usar este material para estudo e referência pessoal.
 
 ---
-
-Se quiser, deixo o README em outro tom (mais formal, mais técnico ou orientado a portfólio). Quer que eu altere o visual ou traduza para inglês?
