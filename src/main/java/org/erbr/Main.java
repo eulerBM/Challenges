@@ -1,11 +1,11 @@
 package org.erbr;
 
-import org.erbr.Desafios.VerificarAnagrama;
+import org.erbr.Desafios.PrimeiraLetraMaiúscula;
 
 public class Main {
     public static void main(String[] args) {
 
-        VerificarAnagrama.verificar("amor", "roma");
+        PrimeiraLetraMaiúscula.make("java spring boot");
 
 
 
