@@ -1,13 +1,11 @@
 package org.erbr;
 
-import org.erbr.Desafios.PrimeiraLetraMaiúscula;
+import org.erbr.Desafios.ContarPalavras;
 
 public class Main {
     public static void main(String[] args) {
 
-        PrimeiraLetraMaiúscula.make("java spring boot");
-
-
+        ContarPalavras.contar(" Conte quantas palavras existem em uma frase ");
 
     }
 }
