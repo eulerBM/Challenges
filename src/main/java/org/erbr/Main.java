@@ -1,11 +1,13 @@
 package org.erbr;
 
-import org.erbr.Desafios.RemoverEspaçosExtras;
+import org.erbr.Desafios.VerificarAnagrama;
 
 public class Main {
     public static void main(String[] args) {
 
-        RemoverEspaçosExtras.remove(" Olá mundo ");
+        VerificarAnagrama.verificar("amor", "roma");
+
+
 
     }
 }
