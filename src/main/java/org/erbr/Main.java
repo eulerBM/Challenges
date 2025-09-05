@@ -1,11 +1,11 @@
 package org.erbr;
 
-import org.erbr.Desafios.EncontrarCaractereRepetido;
+import org.erbr.Desafios.CompactarString;
 
 public class Main {
     public static void main(String[] args) {
 
-        EncontrarCaractereRepetido.procurar("programar");
-        
+
+        CompactarString.compact("aaabbcddd");
     }
 }
