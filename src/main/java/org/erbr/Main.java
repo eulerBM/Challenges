@@ -1,11 +1,13 @@
 package org.erbr;
 
-import org.erbr.Desafios.PrimeiroCaractereNãoRepetido;
+import org.erbr.Desafios.ChecarStringApenasDígitos;
 
 public class Main {
     public static void main(String[] args) {
 
-        PrimeiroCaractereNãoRepetido.make("programming");
+        ChecarStringApenasDígitos.onlyString("12a45");
+
+
 
 
     }
