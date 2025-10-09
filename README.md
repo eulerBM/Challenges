@@ -33,7 +33,9 @@ O objetivo principal é **aprender praticando**: ler, entender e executar as sol
 * Código escrito de forma explícita e didática, com soluções que priorizam entendimento para quem está iniciando ou revisando conceitos.
 * Pequenas variações de implementação (mais manual vs. usando utilitários da linguagem) para mostrar trade-offs entre clareza e concisão.
 
+  
 ---
+
 
 ## 📜 Licença
 
